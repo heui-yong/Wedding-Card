@@ -1,6 +1,7 @@
 import styled from "styled-components";
 import TopContainer from "./components/TopContainer";
 import GlobalStyle from "./styles/GlobalStyles";
+import MainContainer from "./components/MainContainer";
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <GlobalStyle />
       <Wrapper>
         <TopContainer />
+        <MainContainer />
       </Wrapper>
     </>
   );
@@ -20,5 +22,4 @@ const Wrapper = styled.div`
   flex-direction: column;
   align-items: center;
   min-height: 100vh;
-  padding: 36px;
 `;

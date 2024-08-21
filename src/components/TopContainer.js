@@ -34,6 +34,7 @@ const TopTitleText = styled.div`
   font-weight: 500;
   font-family: Francisco, sans-serif;
   font-size: 24px;
+  margin-top: 36px;
 `;
 
 const NameDiv = styled.div`
