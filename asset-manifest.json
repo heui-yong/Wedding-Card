@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/Wedding-Card/static/css/main.e6c13ad2.css",
-    "main.js": "/Wedding-Card/static/js/main.18d08392.js",
+    "main.css": "/Wedding-Card/static/css/main.5367c61e.css",
+    "main.js": "/Wedding-Card/static/js/main.a29a25e4.js",
     "static/js/453.94a8515f.chunk.js": "/Wedding-Card/static/js/453.94a8515f.chunk.js",
     "static/media/main_image.gif": "/Wedding-Card/static/media/main_image.522c2358ae881721c398.gif",
     "static/media/KNPSKkomi.woff": "/Wedding-Card/static/media/KNPSKkomi.bc228fb979266c12c790.woff",
+    "static/media/main_center_image.png": "/Wedding-Card/static/media/main_center_image.152a16df480ee7d8c805.png",
     "static/media/Francisco.woff": "/Wedding-Card/static/media/Francisco.86149601f64da8167835.woff",
     "index.html": "/Wedding-Card/index.html",
-    "main.e6c13ad2.css.map": "/Wedding-Card/static/css/main.e6c13ad2.css.map",
-    "main.18d08392.js.map": "/Wedding-Card/static/js/main.18d08392.js.map",
+    "main.5367c61e.css.map": "/Wedding-Card/static/css/main.5367c61e.css.map",
+    "main.a29a25e4.js.map": "/Wedding-Card/static/js/main.a29a25e4.js.map",
     "453.94a8515f.chunk.js.map": "/Wedding-Card/static/js/453.94a8515f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.18d08392.js"
+    "static/css/main.5367c61e.css",
+    "static/js/main.a29a25e4.js"
   ]
 }
