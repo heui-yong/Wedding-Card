@@ -1,5 +1,7 @@
 import styled from "styled-components";
 import mainImage from "../assets/images/main_image.gif";
+import MainLetterContainer from "./MainLetterContainer";
+import MainInviteContainer from "./MainInviteContainer";
 
 export default function MainContainer() {
   return (
@@ -9,6 +11,8 @@ export default function MainContainer() {
         2026년 10월 31일(토) 오후 1시
         <br /> 해운대 어디어디 2층 그랜드홀
       </MainInfoText>
+      <MainLetterContainer />
+      <MainInviteContainer />
     </MainDiv>
   );
 }
